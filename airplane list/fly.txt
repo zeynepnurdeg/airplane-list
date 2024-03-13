@@ -1,0 +1,7 @@
+6
+Emirates 15 2
+Pegasus 20 3
+Lutfansa 22 4
+Air Serbia 30 7
+Anadolu Jet 18 10
+THY 25 12
